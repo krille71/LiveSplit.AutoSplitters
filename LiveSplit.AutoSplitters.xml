@@ -16552,4 +16552,14 @@
         <Description>Auto start/split and load removal available. (By Banz)</Description>
         <Website>https://github.com/Banzkux/autosplitters/blob/main/freedom-fighters/README.md</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Alkali</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/krille71/alkali-autosplitter/master/alkali-autosplitter.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto start/split/reset (by krille71)</Description>
+    </AutoSplitter>
   </AutoSplitters>
